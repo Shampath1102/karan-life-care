@@ -1,0 +1,6 @@
+{
+  "name": "Karan Life Care ERP",
+  "description": "Offline-first MARG ERP 9+ style pharmaceutical wholesale & retail billing, batch inventory, GST invoicing, party ledger, and Google Drive cloud sync suite for Karan Life Care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
